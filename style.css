@@ -1,0 +1,14 @@
+body{
+    background-color: peachpuff;
+    }
+    h2{
+    color: brown;
+    text-decoration: underline;
+    }
+    button{
+        width: 100px;
+        height: 50px;
+    background: brown;
+    color: white;
+    font-size: 120%;
+    }
